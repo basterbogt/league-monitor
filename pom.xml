@@ -8,5 +8,7 @@
   <name>league-monitor</name>
   <modules>
     <module>lm-api</module>
+    <module>lm-domain</module>
+    <module>lm-logic</module>
   </modules>
 </project>
