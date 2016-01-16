@@ -1,5 +1,5 @@
 
-package org.captains;
+package org.captains.api;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
